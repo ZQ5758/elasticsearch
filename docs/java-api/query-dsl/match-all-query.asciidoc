@@ -7,3 +7,4 @@ See {ref}/query-dsl-match-all-query.html[Match All Query]
 --------------------------------------------------
 QueryBuilder qb = matchAllQuery();
 --------------------------------------------------
+QueryBuilder queryBuilder = matchAllQuery();
